@@ -14,6 +14,24 @@ Passionate about building reliable backend systems, analyzing data, and creating
 - 🎓 Final Year Project: University Library DBMS with smart features & web access
 
 ---
+🔧 Tech Stack: Python | C# | SQL | ASP.NET | Streamlit | REST APIs
+
+📊 Data Enthusiast: Skilled in Pandas, Scikit-learn, TensorFlow — building real projects like sales forecasting, heart disease prediction, and software bug classification.
+
+🧠 AI & ML: I design intelligent solutions using ML models, LSTMs, and chatbots powered by LLMs — deployed with interactive dashboards.
+
+📚 Projects I’m proud of:
+
+📖 University Library DB System — SQL + Web interface with intelligent recommendations
+
+🩸 Blood Bank App — ASP.NET desktop app for donor & inventory management
+
+🧠 Smart Assistant Chatbot — LLM-based chatbot trained on private docs
+
+📈 Sales Forecasting Tool — LSTM + Streamlit with uploadable charts
+
+🎯 I’m always exploring new tools and ideas, whether it’s deep learning, backend architecture, or deploying real-time web apps.
+
 
 ## 🛠️ Tech Stack
 

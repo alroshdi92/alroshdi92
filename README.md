@@ -7,10 +7,10 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ## 🚀 About Me
 
-- 💡 2+ years of experience as a Backend Software Developer (Python, C#, SQL)
-- 📊 Trained in Data Science & Machine Learning (Pandas, scikit-learn, TensorFlow)
-- 🔄 Built ETL pipelines, ML models, APIs, and dashboards for real-world use cases
-- 🌐 Developed and deployed interactive web apps using Streamlit and ASP.NET
+- 💡 2+ years of experience as a Backend Software Developer (Python, C#, SQL, .NET APIs)
+- 📊 Trained for 6 months in Data Science & AI (Pandas, scikit-learn, TensorFlow)
+- 🔄 Built ETL pipelines, ML models, APIs, and PowerBI dashboards for real-world use cases
+- 🌐 Developed and deployed interactive web apps using Streamlit and .NET
 - 🎓 Final Year Project: University Library DBMS with smart features & web access
 
 ---

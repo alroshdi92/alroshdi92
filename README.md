@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Hajer!
 
 🎓 IT Graduate | 💻 Backend Developer | 📊 Data Scientist | AI 
+
 Passionate about building reliable backend systems, analyzing data, and creating intelligent applications.
 
 ---

@@ -15,7 +15,6 @@ Passionate about building reliable backend systems, analyzing data, and creating
   <a href="#-projects"><img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge&logo=github" alt="Projects" /></a> •
   <a href="#-lets-connect"> <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=github" alt="Contact" /></a> •
   <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-purple?style=for-the-badge&logo=github" alt="GitHub Stats" /></a> •
-  <a href="#-most-used-languages"><img src="https://img.shields.io/badge/Languages-yellow?style=for-the-badge&logo=github" alt="Languages" /></a> •
   <a href="#-github-trophies"><img src="https://img.shields.io/badge/Trophies-gold?style=for-the-badge&logo=github" alt="Trophies" /></a>
 </p>
 

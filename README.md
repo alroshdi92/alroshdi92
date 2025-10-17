@@ -1,6 +1,7 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008B8B&center=true&vCenter=true&width=600&lines=Hi%2C+👋 Hi there, I'm Hajer!;💻 Backend Developer | 📊 Data Scientist | AI  " alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008B8B&center=true&vCenter=true&width=600&lines=👋+Hi+there,+I'm+Hajer!;💻+Backend+Developer+|+📊+Data+Scientist+|+🤖+AI+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 🎓 IT/Data Management Graduat | 💻 Backend Developer | 📊 Data Scientist | AI 
 

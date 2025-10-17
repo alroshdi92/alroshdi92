@@ -23,7 +23,9 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ---
 
-## 🚀 About Me
+## <p align="center">
+  <img src="https://img.shields.io/badge/👤-About%20Me-blue?style=for-the-badge&logo=github" alt="About Me" />
+</p>
 
 - 💡 2+ years of experience as a Backend Software Developer (Python, C#, SQL, .NET APIs)
 - 📊 Trained for 6 months in Data Science & AI (Pandas, scikit-learn, TensorFlow)

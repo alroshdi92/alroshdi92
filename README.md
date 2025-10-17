@@ -11,27 +11,28 @@ Passionate about building reliable backend systems, analyzing data, and creating
 ## 🌐 Navigation
 <p align="center">
   <a href="#about-me">
-    <img src="https://img.shields.io/badge/About%20Me-👤-blue?style=for-the-badge&logo=github" alt="About Me" />
+    <img src="https://img.shields.io/badge/👤-About%20Me-blue?style=for-the-badge&logo=github" alt="About Me" />
   </a>
   <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-🛠️-green?style=for-the-badge&logo=github" alt="Tech Stack" />
+    <img src="https://img.shields.io/badge/🛠️-Tech%20Stack-green?style=for-the-badge&logo=github" alt="Tech Stack" />
   </a>
   <a href="#projects">
-    <img src="https://img.shields.io/badge/Projects-📂-orange?style=for-the-badge&logo=github" alt="Projects" />
+    <img src="https://img.shields.io/badge/📂-Projects-orange?style=for-the-badge&logo=github" alt="Projects" />
   </a>
   <a href="#lets-connect">
-    <img src="https://img.shields.io/badge/Contact-📬-red?style=for-the-badge&logo=github" alt="Contact" />
+    <img src="https://img.shields.io/badge/📬-Contact-red?style=for-the-badge&logo=github" alt="Contact" />
   </a>
   <a href="#github-stats">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-📊-purple?style=for-the-badge&logo=github" alt="GitHub Stats" />
+    <img src="https://img.shields.io/badge/📊-GitHub%20Stats-purple?style=for-the-badge&logo=github" alt="GitHub Stats" />
   </a>
   <a href="#most-used-languages">
-    <img src="https://img.shields.io/badge/Languages-💻-yellow?style=for-the-badge&logo=github" alt="Languages" />
+    <img src="https://img.shields.io/badge/💻-Languages-yellow?style=for-the-badge&logo=github" alt="Languages" />
   </a>
   <a href="#github-trophies">
-    <img src="https://img.shields.io/badge/Trophies-🏆-gold?style=for-the-badge&logo=github" alt="Trophies" />
+    <img src="https://img.shields.io/badge/🏆-Trophies-gold?style=for-the-badge&logo=github" alt="Trophies" />
   </a>
 </p>
+
 
 
 ---

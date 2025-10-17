@@ -10,14 +10,15 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ## 🌐 Navigation
 <p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#️-tech-stack">Tech Stack</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-lets-connect">Contact</a> •
-  <a href="#-github-stats">GitHub Stats</a> •
-  <a href="#-most-used-languages">Languages</a> •
-  <a href="#-github-trophies">Trophies</a>
+  <a href="#about-me">About Me</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#lets-connect">Contact</a> •
+  <a href="#github-stats">GitHub Stats</a> •
+  <a href="#most-used-languages">Languages</a> •
+  <a href="#github-trophies">Trophies</a>
 </p>
+
 
 ---
 

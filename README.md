@@ -2,11 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008B8B&left=true&vCenter=true&width=600&lines=👋+Hi+there,+I'm+Hajer!;💻+Backend+Developer;📊+Data+Scientist+|+🤖+AI" alt="Typing SVG" />
 </p>
 
-
-
 🎓 IT/Data Management Graduat | 💻 Backend Developer | 📊 Data Scientist | AI 
 
 Passionate about building reliable backend systems, analyzing data, and creating intelligent applications.
+
+---
+
+## 🌐 Navigation
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-lets-connect">Contact</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-most-used-languages">Languages</a> •
+  <a href="#-github-trophies">Trophies</a>
+</p>
 
 ---
 

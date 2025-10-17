@@ -8,15 +8,16 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ---
 
+
 ## 🌐 Navigation
 <p align="center">
-  <a href="#about-me">👤 <img src="https://img.shields.io/badge/About%20Me-blue?style=for-the-badge" alt="About Me" /></a>
-  <a href="#tech-stack">🛠️ <img src="https://img.shields.io/badge/Tech%20Stack-green?style=for-the-badge" alt="Tech Stack" /></a>
-  <a href="#projects">📂 <img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge" alt="Projects" /></a>
-  <a href="#lets-connect">📬 <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge" alt="Contact" /></a>
-  <a href="#github-stats">📊 <img src="https://img.shields.io/badge/GitHub%20Stats-purple?style=for-the-badge" alt="GitHub Stats" /></a>
-  <a href="#most-used-languages">💻 <img src="https://img.shields.io/badge/Languages-yellow?style=for-the-badge" alt="Languages" /></a>
-  <a href="#github-trophies">🏆 <img src="https://img.shields.io/badge/Trophies-gold?style=for-the-badge" alt="Trophies" /></a>
+  <a href="#-about-me">About Me</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-lets-connect">Contact</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-most-used-languages">Languages</a> •
+  <a href="#-github-trophies">Trophies</a>
 </p>
 
 

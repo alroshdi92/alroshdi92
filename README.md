@@ -41,7 +41,7 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ### 🌐 Feel free to reach out via :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alroshdi92/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](hajeralroshdi99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hajeralroshdi99@gmail.com)
 
 ---
 

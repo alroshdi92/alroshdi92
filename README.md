@@ -39,18 +39,9 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ## 📫 Let's Connect
 
-Feel free to reach out via  
-[LinkedIn](https://www.linkedin.com/in/alroshdi92/) | [Email](hajeralroshdi99@gmail.com)
-
-
-<h1 align="center">Hi 👋, I'm Hajer Alroshdi</h1>
-<h3 align="center">💻 Junior Full Stack Developer | Data Enthusiast from Oman</h3>
-
----
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+### 🌐 Feel free to reach out via :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alroshdi92/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](hajeralroshdi99@gmail.com)
 
 ---
 
@@ -69,6 +60,11 @@ Feel free to reach out via
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alroshdi92&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alroshdi92&theme=tokyonight)
+---
+### 🧠 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alroshdi92&layout=compact&theme=tokyonight)
+
+---
 
 ---
 

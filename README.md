@@ -8,6 +8,16 @@ Passionate about building reliable backend systems, analyzing data, and creating
 
 ---
 
+## 🌐 Navigation
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-blue?style=for-the-badge&logo=github" alt="About Me" /></a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-lets-connect">Contact</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-most-used-languages">Languages</a> •
+  <a href="#-github-trophies">Trophies</a>
+</p>
 
 ## 🌐 Navigation
 <p align="center">
